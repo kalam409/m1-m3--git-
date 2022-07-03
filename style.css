@@ -1,0 +1,37 @@
+#title{
+    color: brown;
+    font-size: 72px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.to-get{
+    font-size: 36px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.box-repository{
+    background-color: rgb(119, 59, 175);
+    border: 10px solid black;
+    border-radius: 20px;
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#repo-title{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+#over{
+    color: beige;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#the-first{
+    color: beige;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
