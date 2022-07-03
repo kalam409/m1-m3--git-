@@ -50,3 +50,16 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+.repo3{
+    background-color: rgb(5, 146, 228);
+    border: 10px solid black;
+    border-radius: 20px;
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
