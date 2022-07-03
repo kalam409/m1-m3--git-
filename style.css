@@ -19,6 +19,8 @@
     text-align: center;
     margin-left: 300px;
     margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 #repo-title{
     color: white;
@@ -34,4 +36,17 @@
     color: beige;
     font-size: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.repo2{
+    background-color: rgb(248, 117, 42);
+    border: 10px solid black;
+    border-radius: 20px;
+    width: 800px;
+    height: 300px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
